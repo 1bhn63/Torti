@@ -1,0 +1,14 @@
+C:\Users\insai\source\repos\Torti\Torti\bin\Debug\net8.0\Torti.exe
+C:\Users\insai\source\repos\Torti\Torti\bin\Debug\net8.0\Torti.deps.json
+C:\Users\insai\source\repos\Torti\Torti\bin\Debug\net8.0\Torti.runtimeconfig.json
+C:\Users\insai\source\repos\Torti\Torti\bin\Debug\net8.0\Torti.dll
+C:\Users\insai\source\repos\Torti\Torti\bin\Debug\net8.0\Torti.pdb
+C:\Users\insai\source\repos\Torti\Torti\obj\Debug\net8.0\Torti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insai\source\repos\Torti\Torti\obj\Debug\net8.0\Torti.AssemblyInfoInputs.cache
+C:\Users\insai\source\repos\Torti\Torti\obj\Debug\net8.0\Torti.AssemblyInfo.cs
+C:\Users\insai\source\repos\Torti\Torti\obj\Debug\net8.0\Torti.csproj.CoreCompileInputs.cache
+C:\Users\insai\source\repos\Torti\Torti\obj\Debug\net8.0\Torti.dll
+C:\Users\insai\source\repos\Torti\Torti\obj\Debug\net8.0\refint\Torti.dll
+C:\Users\insai\source\repos\Torti\Torti\obj\Debug\net8.0\Torti.pdb
+C:\Users\insai\source\repos\Torti\Torti\obj\Debug\net8.0\Torti.genruntimeconfig.cache
+C:\Users\insai\source\repos\Torti\Torti\obj\Debug\net8.0\ref\Torti.dll
